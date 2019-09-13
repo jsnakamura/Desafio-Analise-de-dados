@@ -1,7 +1,4 @@
-import java.io.File;
-import java.io.FileReader;
-import java.io.BufferedReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 
 /**
@@ -17,7 +14,7 @@ public class FileReading {
     private ArrayList<String> dataLines = new ArrayList<>();
 
     /** Path to the folder with entry data */
-    private String path = "E:\\Projects\\Desafio-Analise-de-dados\\Data\\In";
+    String pathname = "..\\Desafio-Analise-de-dados\\Data\\In";
 
 
     /**
@@ -26,19 +23,24 @@ public class FileReading {
      */
     public ArrayList<String> getData() {
 
-        File directory = new File(path);
+        File directory = new File(pathname);
 
         try {
 
             for (File file : directory.listFiles()) {
 
-                BufferedReader buffRead = new BufferedReader(new FileReader(file));
+                BufferedReader buffRead = new BufferedReader(new InputStreamReader(new FileInputStream(file), "UTF-8"));
+
                 String lines;
+
+                buffRead.read();
 
                 while((lines = buffRead.readLine()) != null)
                 {
                     dataLines.add(lines);
                 }
+
+                buffRead.close();
             }
 
         }catch(IOException e)

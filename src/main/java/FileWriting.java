@@ -1,7 +1,6 @@
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-
 /**
  * Class for file wrinting
  *
@@ -19,12 +18,12 @@ public class FileWriting {
      */
     public void writeFile(int sellerCount, int clientCount, String biggestSale) {
 
-        String path = "E:\\Projects\\Desafio-Analise-de-dados\\Data\\Out\\Results.txt";
-
+        String pathname = "..\\Desafio-Analise-de-dados\\Data\\Out\\Results.txt";
 
         try {
-            FileWriter file = new FileWriter(path);
+            FileWriter file = new FileWriter(pathname);
             PrintWriter printFile = new PrintWriter(file);
+
 
             printFile.printf("-----Result-----%n");
             printFile.printf("%n");

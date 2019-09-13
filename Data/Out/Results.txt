@@ -2,6 +2,6 @@
 
 Number of clients: 2 
 
-Number of sellers: 3 
+Number of sellers: 2 
 
-Id of the most expensive Sale: 001 
+Id of the most expensive Sale: 10 

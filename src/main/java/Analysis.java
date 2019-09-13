@@ -67,7 +67,7 @@ public class Analysis {
                      break;
 
                  default:
-                     printer.printing("Type of data with wrong value");
+                     printer.printing(dataType);
                      break;
              }
         }

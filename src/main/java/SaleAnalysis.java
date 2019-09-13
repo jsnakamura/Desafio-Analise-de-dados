@@ -46,6 +46,8 @@ public class SaleAnalysis extends Identity {
      */
     public String analyseSale() {
 
+        Print printer = new Print();
+
         String idSale;
         String itens;
         String[] itensAndValues;
@@ -58,9 +60,11 @@ public class SaleAnalysis extends Identity {
 
             splitter = data.split("ç");
 
-            idSale = splitter[1];
-            itens = splitter[2];
+            printer.printing(splitter[0]);
 
+            idSale = splitter[1];
+
+            itens = splitter[2];
             itens = itens.replace("[", "").replace("]", "");
 
             itensAndValues = itens.split(",");
@@ -74,7 +78,9 @@ public class SaleAnalysis extends Identity {
             }
         }
 
-        return idBiggestSale;
+
+
+        return dataSale.isEmpty() ? "There are no Sales!" : idBiggestSale;
     }
 
     /**
