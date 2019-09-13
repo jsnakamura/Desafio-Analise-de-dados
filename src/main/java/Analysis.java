@@ -10,39 +10,52 @@ import java.util.ArrayList;
 public class Analysis {
 
     private ArrayList<String> dataEntry = new ArrayList<>();
-    private String dataType;
+    Print printer = new Print();
+
 
     private ClientAnalysis clients = new ClientAnalysis();
     private SellerAnalysis sellers = new SellerAnalysis();
     private SaleAnalysis sales = new SaleAnalysis();
 
     /**
-     * Reseter of the data in case of chenge
+     * Reseter of the data in case of change
      *
      * @param dataEntry Data received for analysis
      */
     public void resetData(ArrayList<String> dataEntry) {
-        this.dataEntry = dataEntry;
 
         clients.clear();
         sellers.clear();
         sales.clear();
 
-        //ISSO EU NÃO SEI SE FUNCIONA AINDA
+        this.dataEntry = dataEntry;
+
         analyse();
     }
 
 
-
+    /**
+     *
+     */
     public void analyse() {
 
-        // AQUI TEM QUE CUIDAR SE O INDICE DA SUBSTRING TA CERTO!!!!!
+        String[] dataSplit;
+        String dataType;
+
+
         for(String data : dataEntry) {
-             dataType = data.substring(0,3);
+             dataSplit = data.split("ç");
+             dataType = data.substring(0,4);
+
+             printer.printing(dataType);
+
+             if (dataType.compareTo("001") == 0)
+                 printer.printing("ok!");
 
              switch(dataType) {
                  case "001":
                      clients.add(data);
+                     printer.printing("ok");
                      break;
 
                  case "002":
@@ -56,14 +69,26 @@ public class Analysis {
         }
     }
 
+    /**
+     *
+     * @return
+     */
     public int quantityClients() {
-        return clients.analyseClient();
+        return clients.count();
     }
 
+    /**
+     *
+     * @return
+     */
     public int quantitySellers() {
-        return sellers.analyseSeller();
+        return sellers.count();
     }
 
+    /**
+     *
+     * @return
+     */
     public String mostExpensiveSale() {
         return sales.analyseSale();
     }

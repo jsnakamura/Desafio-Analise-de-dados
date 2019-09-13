@@ -10,4 +10,6 @@ public abstract class Identity {
     abstract void add(String data);
 
     abstract void clear();
+
+    abstract int count();
 }

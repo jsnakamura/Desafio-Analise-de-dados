@@ -12,7 +12,7 @@ public class Read {
     Scanner readline = new Scanner(System.in);
     private String readln;
 
-    public String reader()
+    public String reading()
     {
         readln = readline.nextLine();
 

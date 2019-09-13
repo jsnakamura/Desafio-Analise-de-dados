@@ -8,6 +8,7 @@ import java.util.ArrayList;
  * @Author Juliano Nakamura
  */
 public class ClientAnalysis extends Identity {
+    Print printer = new Print();
 
     private ArrayList<String> dataClient = new ArrayList<>();
 
@@ -19,7 +20,5 @@ public class ClientAnalysis extends Identity {
         dataClient.clear();
     }
 
-    public int analyseClient() {
-        return dataClient.size();
-    }
+    public int count() { return dataClient.size(); }
 }

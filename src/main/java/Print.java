@@ -7,9 +7,19 @@
  */
 public class Print {
 
-    public void printer(String line)
+    public void printing(String line)
     {
         System.out.println(line);
+    }
+
+    public void printing(int value)
+    {
+        System.out.println(value);
+    }
+
+    public void printing(float value)
+    {
+        System.out.println(value);
     }
 
     public static void clearScreen()

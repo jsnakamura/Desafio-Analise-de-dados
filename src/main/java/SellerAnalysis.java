@@ -19,7 +19,5 @@ public class SellerAnalysis extends Identity {
         dataSeller.clear();
     }
 
-    public int analyseSeller() {
-        return dataSeller.size();
-    }
+    public int count() { return dataSeller.size(); }
 }
