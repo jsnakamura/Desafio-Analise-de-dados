@@ -8,17 +8,28 @@ import java.util.ArrayList;
  * @Author Juliano Nakamura
  */
 public class ClientAnalysis extends Identity {
-    Print printer = new Print();
 
+    /** ArrayList with all the data of clients */
     private ArrayList<String> dataClient = new ArrayList<>();
 
+    /**
+     * Method to add a new client in the data.
+     * @param data is a string with the client information.
+     */
     public void add(String data) {
         dataClient.add(data);
     }
 
+    /**
+     * Method to clear all the clients data.
+     */
     public void clear() {
         dataClient.clear();
     }
 
+    /**
+     * Method to count the number os clients in the data.
+     * @return the number of clients.
+     */
     public int count() { return dataClient.size(); }
 }

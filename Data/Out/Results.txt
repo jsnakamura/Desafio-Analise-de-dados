@@ -1,0 +1,7 @@
+-----Result-----
+
+Number of clients: 2 
+
+Number of sellers: 3 
+
+Id of the most expensive Sale: 001 

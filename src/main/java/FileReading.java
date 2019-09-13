@@ -3,7 +3,6 @@ import java.io.FileReader;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Scanner;
 
 /**
  * Class for file reading
@@ -14,34 +13,37 @@ import java.util.Scanner;
  */
 public class FileReading {
 
-    Print printer = new Print();
+    /** ArrayList with each line read from the file */
+    private ArrayList<String> dataLines = new ArrayList<>();
 
-    File directory;
-    String path = "E:\\Projects\\Desafio-Analise-de-dados\\Data\\In";
-
-    ArrayList<String> dataLines = new ArrayList<>();
-
+    /** Path to the folder with entry data */
+    private String path = "E:\\Projects\\Desafio-Analise-de-dados\\Data\\In";
 
 
+    /**
+     * Method to store the file content in an ArrayList
+     * @return dataLines is the Arraylist with the content
+     */
     public ArrayList<String> getData() {
 
-        directory = new File(path);
+        File directory = new File(path);
 
-        for(File file : directory.listFiles())
-        {
-            try {
-                Scanner newFile = new Scanner(file);
+        try {
 
-                while(newFile.hasNext())
+            for (File file : directory.listFiles()) {
+
+                BufferedReader buffRead = new BufferedReader(new FileReader(file));
+                String lines;
+
+                while((lines = buffRead.readLine()) != null)
                 {
-                    dataLines.add(newFile.nextLine());
+                    dataLines.add(lines);
                 }
-
-                newFile.close();
-            }catch(IOException e)
-            {
-                System.err.printf("Failed opening file", e.getMessage());
             }
+
+        }catch(IOException e)
+        {
+            System.err.printf("Failed opening file", e.getMessage());
         }
         return dataLines;
     }

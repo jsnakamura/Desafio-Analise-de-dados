@@ -12,6 +12,10 @@ public class Read {
     Scanner readline = new Scanner(System.in);
     private String readln;
 
+    /**
+     * Method for reading keyboard.
+     * @return readln is a string with the characters typed.
+     */
     public String reading()
     {
         readln = readline.nextLine();

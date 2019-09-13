@@ -116,9 +116,9 @@ public class Main {
 //        String val;
 //
 //        testData.add(testClient1);
-//        //testData.add(testClient2);
+//        testData.add(testClient2);
 //        testData.add(testSeller1);
-//        //testData.add(testSeller2);
+//        testData.add(testSeller2);
 //        testData.add(testSale1);
 //        testData.add(testSale2);
 //
@@ -129,9 +129,9 @@ public class Main {
 //
 //        printer.printing("");
 //        printer.printing(dataAnalyser.quantityClients());
-//
-//
-//        testData.add(testSeller2);
+
+
+//        testData.add(testClient2);
 //
 //        dataAnalyser.resetData(testData);
 //        printer.printing("");
@@ -140,11 +140,42 @@ public class Main {
 //        printer.printing("");
 //        printer.printing(dataAnalyser.quantityClients());
 //        printer.printing("");
-//
+
 //        val = dataAnalyser.mostExpensiveSale();
 //
 //        printer.printing(val);
 
+
+
+
+
+
+        FileReading readFile = new FileReading();
+
+        ArrayList<String> text;
+        String val;
+
+        text = readFile.getData();
+
+        Analysis dataAnalyser = new Analysis();
+        dataAnalyser.resetData(text);
+
+        printer.printing(dataAnalyser.quantityClients());
+
+        printer.printing("");
+        printer.printing(dataAnalyser.quantitySellers());
+
+
+        val = dataAnalyser.mostExpensiveSale();
+
+        printer.printing(val);
+
+
+        // TESTE WRINTING FILE
+
+//        FileWriting fileWriter = new FileWriting();
+//
+//        fileWriter.writeFile(2, 3, "001");
 
 
 
@@ -164,28 +195,22 @@ public class Main {
          */
 
 
-        FileReading readFile = new FileReading();
+        //opcional
 
-        ArrayList<String> text;
-        String val;
+        printer.printing("Type the path to the folder:");
 
-        text = readFile.getData();
+        while(true)
+        {
 
-        Analysis dataAnalyser = new Analysis();
-        dataAnalyser.resetData(text);
+            
 
-        printer.printing(dataAnalyser.quantityClients());
 
-        printer.printing("");
-        printer.printing(dataAnalyser.quantitySellers());
-//
-//        printer.printing("");
-//        printer.printing(dataAnalyser.quantityClients());
-//
-//
-//        val = dataAnalyser.mostExpensiveSale();
-//
-//        printer.printing(val);
+
+        }
+
+
+
+
 
     }
 }
