@@ -46,8 +46,6 @@ public class SaleAnalysis extends Identity {
      */
     public String analyseSale() {
 
-        Print printer = new Print();
-
         String idSale;
         String itens;
         String[] itensAndValues;
@@ -59,8 +57,6 @@ public class SaleAnalysis extends Identity {
         for( String data : dataSale) {
 
             splitter = data.split("ç");
-
-            printer.printing(splitter[0]);
 
             idSale = splitter[1];
 
@@ -108,5 +104,4 @@ public class SaleAnalysis extends Identity {
 
         return totalValue;
     }
-
 }

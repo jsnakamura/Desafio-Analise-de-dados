@@ -49,7 +49,7 @@ public class DirectoryWatch {
 
                 } else if(event.kind() == StandardWatchEventKinds.ENTRY_MODIFY)
                 {
-                    printer.printing("File modifyed!\n");
+                    printer.printing("File modified!\n");
                 }
             }
 

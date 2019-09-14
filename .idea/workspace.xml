@@ -2,29 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d3f9c29-5336-4b35-a64e-e5db606de9c0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileContent/fileContent.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/In/Lote1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/In/Lote1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/In/Lote2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/In/Lote2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/In/Lote3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Data/In/Lote3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data/Out/Results.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Analysis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Analysis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/ClientAnalysis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/ClientAnalysis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Analysis.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Analysis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/DirectoryWatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/DirectoryWatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/FileReading.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/FileReading.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/FileWriting.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/FileWriting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/SaleAnalysis.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/SaleAnalysis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/AnalysisTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/AnalysisTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/ClientAnalysisTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/ClientAnalysisTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/FileReadingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/SaleAnalysisTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/SaleAnalysisTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/SellerAnalysisTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/SellerAnalysisTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/FileReadingTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-FileReadingTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/CurrentDirectory.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/DirectoryWatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/DirectoryWatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FileReading.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/FileReading.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/FileWriting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/FileWriting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/FileWriting.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/classes/SaleAnalysis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/SaleAnalysis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/SellerAnalysis.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/SellerAnalysis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Analysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Analysis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/DirectoryWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DirectoryWatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FileReading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FileReading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/FileWriting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/FileWriting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/SaleAnalysis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SaleAnalysis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AnalysisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AnalysisTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ClientAnalysisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ClientAnalysisTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DirectoryWatchTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FileReadingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SaleAnalysisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SaleAnalysisTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SellerAnalysisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SellerAnalysisTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -41,16 +56,32 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <file leaf-file-name="AnalysisTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/AnalysisTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="712">
-              <caret line="49" column="77" selection-start-line="49" selection-start-column="77" selection-end-line="49" selection-end-column="77" />
-              <folding>
-                <element signature="e#0#1147#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1190">
+              <caret line="75" column="1" lean-forward="true" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SaleAnalysisTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SaleAnalysisTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1241">
+              <caret line="75" column="45" selection-start-line="75" selection-start-column="45" selection-end-line="75" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -59,8 +90,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="408">
-                <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+              <first_editor relative-caret-position="459">
+                <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
               </first_editor>
               <second_editor />
             </state>
@@ -314,27 +345,27 @@
         <option value="$PROJECT_DIR$/src/main/java/Print.java" />
         <option value="$PROJECT_DIR$/src/main/java/SellerAnalysis.java" />
         <option value="$PROJECT_DIR$/src/main/java/ClientAnalysis.java" />
-        <option value="$PROJECT_DIR$/src/test/java/ClientAnalysisTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/AnalysisTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/FileReadingTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SaleAnalysisTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SellerAnalysisTest.java" />
         <option value="$PROJECT_DIR$/Data/In/Lote1.txt" />
         <option value="$PROJECT_DIR$/src/main/java/Analysis.java" />
         <option value="$PROJECT_DIR$/Data/Out/Results.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/SaleAnalysis.java" />
         <option value="$PROJECT_DIR$/Data/In/Lote2.txt" />
         <option value="$PROJECT_DIR$/src/main/java/CurrentDirectory.java" />
         <option value="$PROJECT_DIR$/src/main/java/FileReading.java" />
-        <option value="$PROJECT_DIR$/src/test/java/DirectoryWatchTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/FileWriting.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/AnalysisTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/DirectoryWatchTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FileReadingTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ClientAnalysisTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/DirectoryWatch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SaleAnalysis.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SaleAnalysisTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SellerAnalysisTest.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="63" />
     <option name="y" value="-8" />
     <option name="width" value="1874" />
@@ -440,7 +471,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Gradle.Tests in 'Desafio.SellerData_test'">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Desafio.SellerData_main" />
@@ -449,12 +480,66 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="FileReadingTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SaleAnalysisTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests FileReadingTest" />
+        <option name="scriptParameters" value="--tests SaleAnalysisTest" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="SaleAnalysisTest.analyseSale" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;SaleAnalysisTest.analyseSale&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="SaleAnalysisTest.getItensValue" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;SaleAnalysisTest.getItensValue&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+    </configuration>
+    <configuration name="Tests in 'Desafio.SellerData_test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -506,13 +591,19 @@
       <listeners />
     </configuration>
     <list>
+      <item itemvalue="Gradle.SaleAnalysisTest" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Gradle.FileReadingTest" />
+      <item itemvalue="Gradle.SaleAnalysisTest.getItensValue" />
+      <item itemvalue="Gradle.SaleAnalysisTest.analyseSale" />
+      <item itemvalue="Gradle.Tests in 'Desafio.SellerData_test'" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.Tests in 'Desafio.SellerData_test'" />
+        <item itemvalue="Gradle.SaleAnalysisTest" />
+        <item itemvalue="Gradle.SaleAnalysisTest.analyseSale" />
+        <item itemvalue="Gradle.SaleAnalysisTest.getItensValue" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Gradle.FileReadingTest" />
       </list>
     </recent_temporary>
   </component>
@@ -530,8 +621,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FileReadingTest - 2019.09.13 at 13h 37m 32s.xml">
-      <configuration name="FileReadingTest" configurationId="GradleRunConfiguration" />
+    <history-entry file="ClientAnalysisTest - 2019.09.13 at 20h 24m 52s.xml">
+      <configuration name="ClientAnalysisTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="SellerAnalysisTest_addAndCount - 2019.09.13 at 20h 28m 50s.xml">
+      <configuration name="SellerAnalysisTest.addAndCount" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="SellerAnalysisTest - 2019.09.13 at 20h 29m 27s.xml">
+      <configuration name="SellerAnalysisTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="SaleAnalysisTest - 2019.09.13 at 20h 37m 53s.xml">
+      <configuration name="SaleAnalysisTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="SaleAnalysisTest_clearAndCount - 2019.09.13 at 20h 38m 15s.xml">
+      <configuration name="SaleAnalysisTest.clearAndCount" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="SaleAnalysisTest_getItensValue - 2019.09.13 at 20h 51m 34s.xml">
+      <configuration name="SaleAnalysisTest.getItensValue" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="SaleAnalysisTest_getItensValue - 2019.09.13 at 20h 51m 44s.xml">
+      <configuration name="SaleAnalysisTest.getItensValue" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="SaleAnalysisTest_analyseSale - 2019.09.13 at 20h 54m 56s.xml">
+      <configuration name="SaleAnalysisTest.analyseSale" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="SaleAnalysisTest - 2019.09.13 at 20h 55m 01s.xml">
+      <configuration name="SaleAnalysisTest" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="Tests_in_'Desafio_SellerData_test' - 2019.09.13 at 21h 10m 02s.xml">
+      <configuration name="Tests in 'Desafio.SellerData_test'" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -547,7 +665,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.17023446" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.2038736" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2130479" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17940877" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -748,41 +866,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/AnalysisTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SellerAnalysisTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ClientAnalysisTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SaleAnalysisTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/FileReadingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Data/In/xites.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -821,13 +904,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Analysis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CurrentDirectory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -852,44 +928,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/DirectoryWatchTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Analysis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ClientAnalysis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FileWriting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FileReading.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SaleAnalysis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="82" column="37" selection-start-line="82" selection-start-column="37" selection-end-line="82" selection-end-column="37" />
+        <state relative-caret-position="474">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>
@@ -900,10 +942,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DirectoryWatch.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ClientAnalysis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="70" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="70" />
+        <state relative-caret-position="391">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FileWriting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -912,19 +961,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="712">
+        <state relative-caret-position="765">
           <caret line="49" column="77" selection-start-line="49" selection-start-column="77" selection-end-line="49" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SaleAnalysis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="62" column="32" lean-forward="true" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/FileReading.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
           <folding>
-            <element signature="e#0#1147#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FileReadingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/DirectoryWatchTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DirectoryWatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="51" column="49" selection-start-line="51" selection-start-column="49" selection-end-line="51" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SellerAnalysisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ClientAnalysisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/AnalysisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="75" column="1" lean-forward="true" selection-start-line="75" selection-start-column="1" selection-end-line="75" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SaleAnalysisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1241">
+          <caret line="75" column="45" selection-start-line="75" selection-start-column="45" selection-end-line="75" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="408">
-            <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <first_editor relative-caret-position="459">
+            <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
           </first_editor>
           <second_editor />
         </state>

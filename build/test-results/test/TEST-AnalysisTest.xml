@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AnalysisTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-09-14T00:10:02" hostname="JNakamura" time="0.005">
+  <properties/>
+  <testcase name="quantityClients" classname="AnalysisTest" time="0.004"/>
+  <testcase name="mostExpensiveSale" classname="AnalysisTest" time="0.001"/>
+  <testcase name="quantitySellers" classname="AnalysisTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

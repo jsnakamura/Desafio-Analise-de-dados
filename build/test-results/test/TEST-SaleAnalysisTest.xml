@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SaleAnalysisTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-09-14T00:10:02" hostname="JNakamura" time="0.001">
+  <properties/>
+  <testcase name="addAndCount" classname="SaleAnalysisTest" time="0.0"/>
+  <testcase name="clearAndCount" classname="SaleAnalysisTest" time="0.0"/>
+  <testcase name="getItensValue" classname="SaleAnalysisTest" time="0.0"/>
+  <testcase name="analyseSale" classname="SaleAnalysisTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
